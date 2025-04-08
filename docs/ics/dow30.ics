@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:I42qvXSJoqy1PhZUw5RLT
+UID:E15vMavtWlxP-HEj7YL6G
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $107\
 	,961\,471\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jHs9OSUvcqC0zNrbLv0nZ
+UID:sD4XXBVApRyBlVSX_V5Cy
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250410
 DESCRIPTION:财务季度：Feb/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.53，当前市
-	值: $9\,229\,159\,038。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
+	值: $9\,255\,083\,642。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
 	在富途查看：https://www.futunn.com/hk/stock/WBA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t3nBCh0io5hqxyere4IqN
+UID:K4nqUXZfH3bKSxxknA0k9
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250411
-DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.62，当前市值: $58
-	7\,965\,190\,498。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.62，当前市值: $59
+	9\,596\,991\,870。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3I7DhAEJouvTta0qVtboH
+UID:KWX04NGGje7sGuYQdie2_
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250414
-DESCRIPTION:财务季度：Mar/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $12.87，当前市值: 
-	$146\,911\,097\,127。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
+DESCRIPTION:财务季度：Mar/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $12.72，当前市值: 
+	$145\,257\,290\,252。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
 	途查看：https://www.futunn.com/hk/stock/GS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BNtDjhDQy1iLAtx3opeM2
+UID:ptdea4DUDuvQzLEDBjVRE
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250415
-DESCRIPTION:财务季度：Mar/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.59，当前市值: $368\
-	,943\,182\,035。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
+DESCRIPTION:财务季度：Mar/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.59，当前市值: $362\
+	,635\,226\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
 	https://www.futunn.com/hk/stock/JNJ-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d22CUJVXC3U0wy6ZxQBLu
+UID:VCpUsZLb1EDyLh4CcetxU
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250416
 DESCRIPTION:财务季度：Mar/2025。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $0.62，当前市值: $5
-	4\,926\,781\,755。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
+	3\,015\,476\,669。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
 	看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XdHwjTa7QawKjDMHYbovW
+UID:qyxvJBiPc9pvGr-A6_WFh
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250417
 DESCRIPTION:财务季度：Mar/2025。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $7.27，当前市值:
-	 $480\,269\,710\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	 $479\,949\,561\,125。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
 	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hdn6iSI2w0cnldieuO3ar
+UID:zdjopP3Cw-ZvGAt1JNO1c
 SUMMARY:美国运通 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250417
 DESCRIPTION:财务季度：Mar/2025。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.47，当前市值: $
-	164\,167\,703\,698。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
+	164\,589\,222\,965。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
 	途查看：https://www.futunn.com/hk/stock/AXP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LGQa9rg6OqL_EiwrjDw0p
+UID:XK2W21iiszW8IBx76j6TG
 SUMMARY:维萨 发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250422
-DESCRIPTION:财务季度：Mar/2025。\n代码：V，公司：维萨，行业: 零售银行。\n预计每股收益: $2.68，当前市值: $581\
-	,725\,811\,898。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=V \n在富途查看：ht
+DESCRIPTION:财务季度：Mar/2025。\n代码：V，公司：维萨，行业: 零售银行。\n预计每股收益: $2.68，当前市值: $580\
+	,221\,012\,270。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=V \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/V-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,140 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x5_afN59nFfzusRbnKAyp
-SUMMARY:IBM 盘后发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250423
-DESCRIPTION:财务季度：Mar/2025。\n代码：IBM，公司：IBM，行业: 电子计算机及技术。\n预计每股收益: $1.43，当前市值
-	: $210\,934\,090\,243。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \
-	n在富途查看：https://www.futunn.com/hk/stock/IBM-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:CULb-mQkZztIdgZNtO230
-SUMMARY:波音 盘前发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250423
-DESCRIPTION:财务季度：Mar/2025。\n代码：BA，公司：波音，行业: 航空制造及国防。\n预计每股收益: ($1.41)，当前市值:
-	 $102\,452\,663\,798。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BA \n在
-	富途查看：https://www.futunn.com/hk/stock/BA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:YpTYpHY0CGHIX-kV9djlV
-SUMMARY:苹果公司 盘后发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果公司，行业: 消费电子产品。\n预计每股收益: $1.61，当前市值
-	: $2\,829\,858\,111\,740。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AA
-	PL \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:OYYpasrB1KTnzzh3Onoqw
-SUMMARY:微软 发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：MSFT，公司：微软，行业: 软件。\n预计每股收益: $3.20，当前市值: $2\,
-	675\,044\,167\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n在
-	富途查看：https://www.futunn.com/hk/stock/MSFT-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:-92D7d19_KkFVnXhJIqjI
-SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.57，当前市值: $383\
-	,969\,484\,543。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
-	ttps://www.futunn.com/hk/stock/PG-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:Hw_HuWFsJbzmuxRcRufyD
-SUMMARY:默克药厂 盘前发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：MRK，公司：默克药厂，行业: 制药。\n预计每股收益: $2.16，当前市值: $20
-	5\,796\,172\,473。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRK \n在富途查
-	看：https://www.futunn.com/hk/stock/MRK-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:t8ZaoSLlhSEWvWZf_0fsG
-SUMMARY:卡特彼勒 发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：CAT，公司：卡特彼勒，行业: 建筑及采矿设备。\n预计每股收益: $4.32，当前市值
-	: $137\,682\,657\,474。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CAT \
-	n在富途查看：https://www.futunn.com/hk/stock/CAT-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:F_bjNnk6RDOKz-jIMv768
-SUMMARY:英特尔 盘后发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:财务季度：Mar/2025。\n代码：INTC，公司：英特尔，行业: 半导体。\n预计每股收益: ($0.14)，当前市值: 
-	$85\,950\,500\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
-	富途查看：https://www.futunn.com/hk/stock/INTC-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ektc9iHM4MQtCWQ1CaTF5
-SUMMARY:威瑞森 发布财报
-DTSTAMP:20250408T044528Z
-DTSTART;VALUE=DATE:20250428
-DESCRIPTION:财务季度：Mar/2025。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.14，当前市值: $181\
-	,143\,561\,313。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
+UID:y4wMijjac4PXzXLobbMsw
+SUMMARY:威瑞森 盘前发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250422
+DESCRIPTION:财务季度：Mar/2025。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.14，当前市值: $179\
+	,249\,194\,532。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/VZ-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -294,12 +166,124 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HMpAD3Vm39p5slnNqjhiw
+UID:iUYa5BL9IOUvpvUYLCJ0J
+SUMMARY:IBM 盘后发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250423
+DESCRIPTION:财务季度：Mar/2025。\n代码：IBM，公司：IBM，行业: 电子计算机及技术。\n预计每股收益: $1.43，当前市值
+	: $209\,357\,740\,879。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \
+	n在富途查看：https://www.futunn.com/hk/stock/IBM-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Zx5tUr-KeuWe39OK76n1f
+SUMMARY:波音 盘前发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250423
+DESCRIPTION:财务季度：Mar/2025。\n代码：BA，公司：波音，行业: 航空制造及国防。\n预计每股收益: ($1.44)，当前市值:
+	 $104\,155\,332\,711。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BA \n在
+	富途查看：https://www.futunn.com/hk/stock/BA-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kl3HCBuglWNLxYM15Zx_A
+SUMMARY:微软 发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:财务季度：Mar/2025。\n代码：MSFT，公司：微软，行业: 软件。\n预计每股收益: $3.20，当前市值: $2\,
+	660\,324\,882\,617。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n在
+	富途查看：https://www.futunn.com/hk/stock/MSFT-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48F3xAr04VEJy-1QFZMw7
+SUMMARY:宝洁 盘前发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:财务季度：Mar/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.57，当前市值: $375\
+	,715\,606\,157。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
+	ttps://www.futunn.com/hk/stock/PG-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:OG9PiXf_4GrBPHp-d0gl6
+SUMMARY:默克药厂 盘前发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:财务季度：Mar/2025。\n代码：MRK，公司：默克药厂，行业: 制药。\n预计每股收益: $2.16，当前市值: $20
+	5\,063\,621\,963。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRK \n在富途查
+	看：https://www.futunn.com/hk/stock/MRK-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Oksd3fsHfi7G5p6-3m4qr
+SUMMARY:卡特彼勒 发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:财务季度：Mar/2025。\n代码：CAT，公司：卡特彼勒，行业: 建筑及采矿设备。\n预计每股收益: $4.32，当前市值
+	: $133\,849\,642\,641。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CAT \
+	n在富途查看：https://www.futunn.com/hk/stock/CAT-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Vcw6DDwvYgSBRfs3w9Y_x
+SUMMARY:英特尔 盘后发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:财务季度：Mar/2025。\n代码：INTC，公司：英特尔，行业: 半导体。\n预计每股收益: ($0.14)，当前市值: 
+	$84\,738\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
+	富途查看：https://www.futunn.com/hk/stock/INTC-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vNvIsHFVTIIWw3-wdvf5v
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.72，当前市值: $300
-	\,768\,957\,622。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
+DESCRIPTION:财务季度：Mar/2025。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.72，当前市值: $294
+	\,059\,397\,006。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
 	https://www.futunn.com/hk/stock/KO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -310,12 +294,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Od29NxQn-h-9gqK9p6fIN
+UID:4uYo7pJ1QP21vop4i6DI-
 SUMMARY:霍尼韦尔 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250429
 DESCRIPTION:财务季度：Mar/2025。\n代码：HON，公司：霍尼韦尔，行业: 综合企业。\n预计每股收益: $2.21，当前市值: $
-	124\,127\,944\,055。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富
+	121\,833\,731\,570。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富
 	途查看：https://www.futunn.com/hk/stock/HON-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -326,12 +310,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QJvOUKQ4vyoVjwO913nRV
+UID:N2QC1GRo9T4xie986_DRW
 SUMMARY:3M 发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250429
-DESCRIPTION:财务季度：Mar/2025。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $1.76，当前市值: $68
-	\,899\,439\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
+DESCRIPTION:财务季度：Mar/2025。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $1.76，当前市值: $69
+	\,789\,795\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
 	：https://www.futunn.com/hk/stock/MMM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -342,12 +326,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FcXe8edgkNTu3BiXn1CwA
+UID:m2GfDdrhGdzKiZlQYKqx1
+SUMMARY:苹果公司 盘后发布财报
+DTSTAMP:20250408T164915Z
+DTSTART;VALUE=DATE:20250501
+DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果公司，行业: 消费电子产品。\n预计每股收益: $1.61，当前市值
+	: $2\,725\,905\,366\,580。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AA
+	PL \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:-1syUzESslAtDTZrfIXaS
 SUMMARY:麦当劳 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：MCD，公司：麦当劳，行业: 快餐。\n预计每股收益: $2.68，当前市值: $214
-	\,416\,932\,425。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
+	\,259\,750\,975。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
 	：https://www.futunn.com/hk/stock/MCD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -358,12 +358,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zSehwOaiaO32vpv9z7LiZ
+UID:0noGBbSJkjvmuaVCX0YGZ
 SUMMARY:安进 盘后发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：AMGN，公司：安进，行业: 卫生保健。\n预计每股收益: $4.18，当前市值: $1
-	58\,147\,763\,170。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMGN \n在富
+	55\,622\,899\,938。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMGN \n在富
 	途查看：https://www.futunn.com/hk/stock/AMGN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -374,12 +374,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8CjO4h1JyX3UuWnLeEfF-
+UID:9DrzCmgf3FKS-ojtj6LmL
 SUMMARY:雪佛龙 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250502
 DESCRIPTION:财务季度：Mar/2025。\n代码：CVX，公司：雪佛龙，行业: 石油与天然气。\n预计每股收益: $2.49，当前市值: 
-	$252\,258\,558\,381。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CVX \n在
+	$246\,747\,884\,961。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CVX \n在
 	富途查看：https://www.futunn.com/hk/stock/CVX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -390,12 +390,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bjsFmqUBg1ihmkFuuak-8
+UID:Ywo4I6kmRsdeId9iQ6Jg7
 SUMMARY:华特迪士尼 盘前发布财报
-DTSTAMP:20250408T044528Z
+DTSTAMP:20250408T164915Z
 DTSTART;VALUE=DATE:20250507
 DESCRIPTION:财务季度：Mar/2025。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.19，当前市值:
-	 $151\,004\,603\,893。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
+	 $150\,588\,812\,455。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
 	在富途查看：https://www.futunn.com/hk/stock/DIS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
