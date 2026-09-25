@@ -2,15 +2,15 @@
   "date": "2026-10-09",
   "data": [
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "10/09/2025",
       "lastYearEPS": "$1.71",
       "time": "time-pre-market",
       "symbol": "DAL",
       "name": "Delta Air Lines, Inc.",
-      "marketCap": "$53,760,684,000",
+      "marketCap": "$54,424,883,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.03",
-      "noOfEsts": "N/A"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "N/A",
@@ -18,32 +18,32 @@
       "time": "time-not-supplied",
       "symbol": "HIFS",
       "name": "Hingham Institution for Savings",
-      "marketCap": "$628,393,660",
+      "marketCap": "$638,185,790",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "10/10/2025",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
       "symbol": "GLDG",
       "name": "GoldMining Inc.",
-      "marketCap": "$213,102,336",
+      "marketCap": "$209,474,976",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "10/10/2025",
       "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "HOVR",
       "name": "New Horizon Aircraft Ltd.",
-      "marketCap": "$113,439,456",
+      "marketCap": "$117,466,896",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.08)",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -51,10 +51,10 @@
       "time": "time-not-supplied",
       "symbol": "TKLF",
       "name": "Tokyo Lifestyle Co., Ltd.",
-      "marketCap": "$7,111,072",
+      "marketCap": "$7,155,516",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "6"
     }
   ]
 }
