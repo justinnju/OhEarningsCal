@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:snQvcWN9TZ4aq7A3shLVp
+UID:Jn8vMP75tt_ARyvb_QeK6
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260929T105233Z
+DTSTAMP:20260929T205957Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
 	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ij3ny0tZl9EBganUkF263
+UID:Uw6KqoMVmgzaC3Bdevf9o
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260929T105233Z
+DTSTAMP:20260929T205957Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.64)，当前市值: $
 	1\,684\,117\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Zame26jw4jHP42XHNs9P6
+UID:VYP1cJzitHhalZCK46R1v
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260929T105233Z
+DTSTAMP:20260929T205957Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,337\,091\,090\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,348\,864\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
