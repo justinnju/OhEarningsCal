@@ -9,7 +9,7 @@
       "name": "Tesla, Inc. ",
       "marketCap": "$1,393,558,290,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.25",
+      "epsForecast": "$0.24",
       "noOfEsts": "11"
     },
     {
@@ -31,7 +31,7 @@
       "name": "GE Vernova Inc.",
       "marketCap": "$256,343,409,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$4.08",
+      "epsForecast": "$4.03",
       "noOfEsts": "7"
     },
     {
@@ -163,7 +163,7 @@
       "name": "Canadian Pacific Kansas City Limited",
       "marketCap": "$77,207,273,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.96",
+      "epsForecast": "$1.01",
       "noOfEsts": "7"
     },
     {
@@ -176,6 +176,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.35",
       "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "10/29/2025",
+      "lastYearEPS": "$0.21",
+      "time": "time-after-hours",
+      "symbol": "CVNA",
+      "name": "Carvana Co.",
+      "marketCap": "$70,011,503,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.49",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "10/22/2025",
@@ -277,6 +288,17 @@
       "noOfEsts": "13"
     },
     {
+      "lastYearRptDt": "10/29/2025",
+      "lastYearEPS": "$1.28",
+      "time": "time-pre-market",
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line, Inc.",
+      "marketCap": "$36,797,506,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.60",
+      "noOfEsts": "8"
+    },
+    {
       "lastYearRptDt": "10/30/2025",
       "lastYearEPS": "$4.81",
       "time": "time-pre-market",
@@ -321,6 +343,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "10/30/2025",
+      "lastYearEPS": "$0.60",
+      "time": "time-after-hours",
+      "symbol": "VICI",
+      "name": "VICI Properties Inc.",
+      "marketCap": "$25,544,998,900",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.61",
+      "noOfEsts": "8"
+    },
+    {
       "lastYearRptDt": "10/22/2025",
       "lastYearEPS": "$0.83",
       "time": "time-not-supplied",
@@ -330,6 +363,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.94",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "10/28/2025",
+      "lastYearEPS": "$4.18",
+      "time": "time-pre-market",
+      "symbol": "LH",
+      "name": "Labcorp Holdings Inc.",
+      "marketCap": "$25,044,490,200",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$4.65",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/22/2025",
@@ -409,17 +453,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.73",
-      "time": "time-not-supplied",
-      "symbol": "NLY",
-      "name": "Annaly Capital Management Inc.",
-      "marketCap": "$15,315,477,500",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.78",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$4.50",
       "time": "time-pre-market",
@@ -429,6 +462,28 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$6.01",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "10/27/2025",
+      "lastYearEPS": "$7.54",
+      "time": "time-after-hours",
+      "symbol": "EG",
+      "name": "Everest Group, Ltd.",
+      "marketCap": "$14,141,184,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$8.49",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/29/2025",
+      "lastYearEPS": "$0.37",
+      "time": "time-after-hours",
+      "symbol": "AGI",
+      "name": "Alamos Gold Inc.",
+      "marketCap": "$13,895,368,700",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.47",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "10/29/2025",
@@ -504,7 +559,7 @@
       "name": "Lennox International, Inc.",
       "marketCap": "$12,447,372,300",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$7.42",
+      "epsForecast": "$7.41",
       "noOfEsts": "6"
     },
     {
@@ -561,6 +616,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.39",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "10/29/2025",
+      "lastYearEPS": "$1.14",
+      "time": "time-pre-market",
+      "symbol": "OGE",
+      "name": "OGE Energy Corp",
+      "marketCap": "$9,374,658,600",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.17",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "10/29/2025",
@@ -1136,17 +1202,6 @@
     },
     {
       "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "($0.37)",
-      "time": "time-not-supplied",
-      "symbol": "PDS",
-      "name": "Precision Drilling Corporation",
-      "marketCap": "$997,476,480",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.24",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/22/2025",
       "lastYearEPS": "$0.45",
       "time": "time-not-supplied",
       "symbol": "NBBK",
@@ -1188,6 +1243,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.41",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/30/2025",
+      "lastYearEPS": "($1.10)",
+      "time": "time-after-hours",
+      "symbol": "EIG",
+      "name": "Employers Holdings Inc",
+      "marketCap": "$860,847,040",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.61",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "10/22/2025",
