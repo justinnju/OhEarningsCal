@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GJXqbTVVi30R2XxemITGH
+UID:jyvlN_8wLO-dxrROkTGBH
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261003T192314Z
+DTSTAMP:20261004T104419Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,381\,642\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:09RI4VjkoBDVsfqbvE8Be
+UID:qGPqdLy7ZSjB0XHKGcooK
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20261003T192314Z
+DTSTAMP:20261004T104419Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
 	市值: $124\,983\,976\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oCgTvo-rsa0FAENbbyEn8
+UID:FO7gjoh95B2Am94R0U0vf
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20261003T192314Z
+DTSTAMP:20261004T104419Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.22)，
 	当前市值: $49\,941\,692\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
