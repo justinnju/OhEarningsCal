@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LI28iiHLnXa5L4jV9Bp8E
+UID:MtW-nnzEOCzorbENHtXea
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261005T114724Z
+DTSTAMP:20261005T225309Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,381\,642\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,452\,075\,840\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:svxFRv5ivqkK8qw6zIoTb
+UID:e0S0BGNg-Sicx-2abUtvq
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20261005T114724Z
+DTSTAMP:20261005T225309Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
 	市值: $124\,296\,749\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jyiMr54K_8Ryny1-m5qM5
+UID:1Id9jDq-WJ94sfXRkfx9b
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20261005T114724Z
+DTSTAMP:20261005T225309Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.22)，
 	当前市值: $48\,282\,157\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LPLTmuCqWbJlVNgusBIHW
+UID:CS36wN7LuhQfScHvt2Z91
 SUMMARY:Shopify 发布财报
-DTSTAMP:20261005T114724Z
+DTSTAMP:20261005T225309Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.33，当前市
 	值: $196\,304\,126\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SeT9GnzaDmviWI9Tw47a9
+UID:z2fG1Y0PFNWqHxUcf-LBn
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20261005T114724Z
+DTSTAMP:20261005T225309Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.94，当前市值: $28\,702\,818\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
