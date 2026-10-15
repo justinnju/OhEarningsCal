@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:h4jGKzQHqTRlwaG2Z3eUe
+UID:4vDfGfZ9RelQ-2WsAmXUw
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,308\,617\,010\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,230\,197\,160\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,28 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zZPiQ1ENlILmb-Pw_7kvw
-SUMMARY:Cloudflare 发布财报
-DTSTAMP:20261015T091956Z
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
-	市值: $123\,808\,915\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
-	 \n在富途查看：https://www.futunn.com/hk/stock/NET-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:B7gy0pmiz69oiMTqfXW3V
+UID:1tQ0qfAf4VkFKtqTAt4m4
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261029
-DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.20)，
-	当前市值: $47\,962\,915\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
+DESCRIPTION:财务季度：Sep/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.19)，
+	当前市值: $45\,614\,764\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
 	IN \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l_UsL6Y36xPvlmltROauf
+UID:G-gRtQ83lRAekhvvjJmFK
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.33，当前市
-	值: $227\,795\,026\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $223\,733\,744\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z8FkbCcVSEZUAo01ANc27
+UID:3Jn5QFIzfI-dm96fjaefv
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.94，当前市值: $25\,667\,637\,200。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.94，当前市值: $23\,506\,221\,100。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AMqlZK_JJ7xvBJCp0Yd99
+UID:vt9Z9VguV5DcarnRQnwrD
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.22，当前市值: $27
 	1\,749\,071\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GT19kqUlHRs_HzR5TKzAz
+UID:2m0Nobx1vEMnN01C-FpVw
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.81，当
 	前市值: $168\,527\,036\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -118,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HznzBoPH1ldzaIUsRwATU
-SUMMARY:Unity 发布财报
-DTSTAMP:20261015T091956Z
-DTSTART;VALUE=DATE:20261104
-DESCRIPTION:财务季度：Sep/2026。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: $0.18，当前市值: $20\
-	,521\,347\,100。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：ht
+UID:yiWkd6s5E-NRY_-by-9Pk
+SUMMARY:Unity 盘前发布财报
+DTSTAMP:20261015T200039Z
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:财务季度：Sep/2026。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: $0.18，当前市值: $18\
+	,219\,681\,800。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/U-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FSU80660CNWo-2zHY951i
+UID:UUjmcERSxKtxLCtkHEjYK
 SUMMARY:索尼 盘前发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:财务季度：Sep/2026。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.38，当前市值: $1
-	43\,450\,964\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
+	43\,627\,846\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
 	途查看：https://www.futunn.com/hk/stock/SONY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +134,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NecefNyesudKOoDAMLH80
+UID:N5pY7kEuKxmDtscWwGZtl
+SUMMARY:Cloudflare 盘后发布财报
+DTSTAMP:20261015T200039Z
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:财务季度：Sep/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.02，当前
+	市值: $115\,487\,334\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET
+	 \n在富途查看：https://www.futunn.com/hk/stock/NET-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:o_JX2zxARlPQDdDlRPOAf
 SUMMARY:京东 发布财报
-DTSTAMP:20261015T091956Z
+DTSTAMP:20261015T200039Z
 DTSTART;VALUE=DATE:20261112
 DESCRIPTION:财务季度：Sep/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.95，当前市值: $35\
-	,992\,322\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
+	,857\,920\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/JD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
