@@ -135,17 +135,6 @@
     },
     {
       "lastYearRptDt": "10/31/2025",
-      "lastYearEPS": "$0.52",
-      "time": "time-not-supplied",
-      "symbol": "CVE",
-      "name": "Cenovus Energy Inc",
-      "marketCap": "$60,316,635,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.21",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/31/2025",
       "lastYearEPS": "$1.06",
       "time": "time-pre-market",
       "symbol": "D",
@@ -284,8 +273,8 @@
       "name": "Cboe Global Markets, Inc.",
       "marketCap": "$11,636,977,312",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.42",
-      "noOfEsts": "9"
+      "epsForecast": "$3.43",
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "10/31/2025",
@@ -317,8 +306,8 @@
       "name": "OneMain Holdings, Inc.",
       "marketCap": "$6,632,140,800",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.59",
-      "noOfEsts": "6"
+      "epsForecast": "$1.56",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "10/29/2025",
@@ -398,6 +387,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "11/03/2025",
+      "lastYearEPS": "$0.75",
+      "time": "time-pre-market",
+      "symbol": "HESM",
+      "name": "Hess Midstream LP",
+      "marketCap": "$4,070,006,530",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.71",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "10/31/2025",
       "lastYearEPS": "$0.23",
       "time": "time-pre-market",
@@ -428,17 +428,6 @@
       "marketCap": "$1,737,733,250",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.21",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "($0.19)",
-      "time": "time-not-supplied",
-      "symbol": "TV",
-      "name": "Grupo Televisa S.A.B.",
-      "marketCap": "$1,339,245,060",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.03",
       "noOfEsts": "3"
     },
     {
@@ -495,17 +484,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.39",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "$6.69",
-      "time": "time-pre-market",
-      "symbol": "VRTS",
-      "name": "Virtus Investment Partners, Inc.",
-      "marketCap": "$815,054,460",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$5.78",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -585,17 +563,6 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$0.19",
-      "time": "time-pre-market",
-      "symbol": "SAMG",
-      "name": "Silvercrest Asset Management Group Inc.",
-      "marketCap": "$123,690,688",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.12",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.07",
       "time": "time-pre-market",
@@ -649,17 +616,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.63)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/31/2025",
-      "lastYearEPS": "($8.07)",
-      "time": "time-not-supplied",
-      "symbol": "NVNO",
-      "name": "enVVeno Medical Corporation",
-      "marketCap": "$4,686,601",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
