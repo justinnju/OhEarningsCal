@@ -399,17 +399,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "QMLS",
-      "name": "QumulusAI, Inc.",
-      "marketCap": "$104,725,152",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.27)",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "$1.04",
       "time": "time-not-supplied",
       "symbol": "JFIN",
@@ -439,7 +428,7 @@
       "marketCap": "$32,458,220",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
