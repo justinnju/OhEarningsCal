@@ -43,7 +43,7 @@
       "marketCap": "$10,793,534,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -54,7 +54,7 @@
       "marketCap": "$9,859,968,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -76,7 +76,7 @@
       "marketCap": "$7,080,397,800",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -86,6 +86,17 @@
       "name": "Buckle, Inc. (The)",
       "marketCap": "$2,259,850,500",
       "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.02",
+      "time": "time-pre-market",
+      "symbol": "RLX",
+      "name": "RLX Technology Inc.",
+      "marketCap": "$1,943,384,700",
+      "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
@@ -109,7 +120,7 @@
       "marketCap": "$197,363,872",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -120,7 +131,7 @@
       "marketCap": "$64,696,672",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
